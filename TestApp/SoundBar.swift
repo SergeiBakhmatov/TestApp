@@ -9,10 +9,10 @@ import Foundation
 
 final class SoundBar {
     
-    private var valume = 0
+    private(set) var volume = 0
     
     func setValume(to value: Int) {
-        valume = min(max(value, 0), 100)
+        volume = min(max(value, 0), 100)
     }
     
 }
