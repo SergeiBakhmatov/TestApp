@@ -13,6 +13,7 @@
 		777D25AE2A5FB28000A58349 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 777D25AC2A5FB28000A58349 /* Main.storyboard */; };
 		777D25B02A5FB28100A58349 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 777D25AF2A5FB28100A58349 /* Assets.xcassets */; };
 		777D25B32A5FB28100A58349 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 777D25B12A5FB28100A58349 /* LaunchScreen.storyboard */; };
+		777D25BB2A5FB34000A58349 /* SoundBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 777D25BA2A5FB34000A58349 /* SoundBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		777D25AF2A5FB28100A58349 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		777D25B22A5FB28100A58349 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		777D25B42A5FB28100A58349 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		777D25BA2A5FB34000A58349 /* SoundBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				777D25A62A5FB28000A58349 /* AppDelegate.swift */,
 				777D25A82A5FB28000A58349 /* SceneDelegate.swift */,
 				777D25AA2A5FB28000A58349 /* ViewController.swift */,
+				777D25BA2A5FB34000A58349 /* SoundBar.swift */,
 				777D25AC2A5FB28000A58349 /* Main.storyboard */,
 				777D25AF2A5FB28100A58349 /* Assets.xcassets */,
 				777D25B12A5FB28100A58349 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				777D25AB2A5FB28000A58349 /* ViewController.swift in Sources */,
 				777D25A72A5FB28000A58349 /* AppDelegate.swift in Sources */,
 				777D25A92A5FB28000A58349 /* SceneDelegate.swift in Sources */,
+				777D25BB2A5FB34000A58349 /* SoundBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
